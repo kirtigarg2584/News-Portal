@@ -1,0 +1,29 @@
+/* -------------------- Dashboard -------------------- */
+
+a.dashboard-module, 
+a.dashboard-module:visited { 
+	width: 142px; 
+	height: 142px; 
+	display: block; 
+	float: left; 
+	background: url(dashboard-module.gif) top left no-repeat; 
+	margin: 0 8px 8px 0;  
+	text-align: center; 
+	color: #444444; 
+	}
+	
+a.dashboard-module:hover, 
+a.dashboard-module:active { 
+	background-position: bottom left; 
+	text-decoration: none; 
+	color:#0063be; 
+	}
+
+a.dashboard-module img { 
+	margin-top: 20px; 
+	}
+	
+a.dashboard-module span { 
+	margin-top: 10px; 
+	display: block; 
+	}

@@ -1,0 +1,7 @@
+[29-Nov-2014 11:07:56 UTC] PHP Warning:  mysql_query(): Access denied for user 'indiaping'@'localhost' (using password: NO) in /home/indiaping/public_html/admin001/index.php on line 77
+[29-Nov-2014 11:07:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/indiaping/public_html/admin001/index.php on line 77
+[29-Nov-2014 11:08:47 UTC] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/indiaping/public_html/admin001/index.php on line 26
+[29-Nov-2014 11:08:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'indiaping'@'localhost' (using password: NO) in /home/indiaping/public_html/admin001/index.php on line 77
+[29-Nov-2014 11:08:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/indiaping/public_html/admin001/index.php on line 77
+[29-Nov-2014 11:08:53 UTC] PHP Warning:  mysql_query(): Access denied for user 'indiaping'@'localhost' (using password: NO) in /home/indiaping/public_html/admin001/index.php on line 77
+[29-Nov-2014 11:08:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/indiaping/public_html/admin001/index.php on line 77
